@@ -108,7 +108,6 @@ A project-based AI workbench for organizing goals, context, agents, resources, t
 ## Social
 
 - [X (Twitter): @Zhaphar][x-twitter]
-- [LinkedIn: Zhaphar][linkedin]
 - [YouTube: @Zhaphar][youtube]
 - [Bilibili: Zhaphar][bilibili]
 - [Zhihu: Zhaphar][zhihu]
@@ -133,7 +132,6 @@ One system at a time.
 [mediaos]: https://zhaphar.com/mediaos
 [flowdeck]: https://zhaphar.com/flowdeck
 [x-twitter]: https://x.com/Zhaphar
-[linkedin]: https://www.linkedin.com/in/Zhaphar
 [youtube]: https://www.youtube.com/@Zhaphar
 [bilibili]: https://space.bilibili.com/Zhaphar
 [zhihu]: https://www.zhihu.com/people/Zhaphar
