@@ -107,13 +107,14 @@ A project-based AI workbench for organizing goals, context, agents, resources, t
 
 ## Social
 
-- [X (Twitter)][x-twitter]
-- [LinkedIn][linkedin]
-- [YouTube][youtube]
-- [Bilibili][bilibili]
-- [Zhihu][zhihu]
-- [Xiaohongshu][xiaohongshu]
-- [Discord][discord]
+- [X (Twitter): @Zhaphar][x-twitter]
+- [LinkedIn: Zhaphar][linkedin]
+- [YouTube: @Zhaphar][youtube]
+- [Bilibili: Zhaphar][bilibili]
+- [Zhihu: Zhaphar][zhihu]
+- [Xiaohongshu: Zhaphar][xiaohongshu]
+- [微信公众号: Zhaphar][wechat-official]
+- [Discord: Zhaphar][discord]
 
 ---
 
@@ -131,10 +132,11 @@ One system at a time.
 [skills]: https://zhaphar.com/skills
 [mediaos]: https://zhaphar.com/mediaos
 [flowdeck]: https://zhaphar.com/flowdeck
-[x-twitter]: https://x.com/YOUR_HANDLE
-[linkedin]: https://www.linkedin.com/in/YOUR_HANDLE
-[youtube]: https://www.youtube.com/@YOUR_HANDLE
-[bilibili]: https://space.bilibili.com/YOUR_ID
-[zhihu]: https://www.zhihu.com/people/YOUR_HANDLE
-[xiaohongshu]: https://www.xiaohongshu.com/user/profile/YOUR_ID
-[discord]: https://discord.gg/YOUR_INVITE_CODE
+[x-twitter]: https://x.com/Zhaphar
+[linkedin]: https://www.linkedin.com/in/Zhaphar
+[youtube]: https://www.youtube.com/@Zhaphar
+[bilibili]: https://space.bilibili.com/Zhaphar
+[zhihu]: https://www.zhihu.com/people/Zhaphar
+[xiaohongshu]: https://www.xiaohongshu.com/user/profile/Zhaphar
+[wechat-official]: https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=Zhaphar#wechat_redirect
+[discord]: https://discord.gg/Zhaphar
